@@ -17,23 +17,23 @@ MyBike is a modern responsive landing page designed to highlight an innovative c
         git clone https://github.com/modeltoIT/MyBike_landing.git
 
 
-	2.	Move into the project directory:
+	2. Move into the project directory:
 
         cd MyBike_landing
 
 
-	3.	Ensure that Node.js version v20.x.x is installed. Verify this by running:
+	3. Ensure that Node.js version v20.x.x is installed. Verify this by running:
 
         node -v
 
         If the version is incorrect, install or update Node.js from Node.js official website.
 
-	4.	Install the necessary project dependencies by running:
+	4. Install the necessary project dependencies by running:
 
         npm install
 
 
-	5.	Start the development server with the command:
+	5. Start the development server with the command:
 
         npm start
 
